@@ -1,0 +1,19 @@
+{
+    "name": "gruelt/esup-signature-client",
+    "description": "Esup Signature API Client Designed to be used with laravel",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "gruelt\\EsupSignatureClient\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GRUEL Thomas"
+        }
+    ]
+}
